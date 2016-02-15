@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-rgrjs",
+  "version": "1.0.0",
+  "description": "following tutorial on pluralsight, rgrjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorvej/tutorial-rgrjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktorvej/tutorial-rgrjs/issues"
+  },
+  "homepage": "https://github.com/viktorvej/tutorial-rgrjs#readme"
+}
